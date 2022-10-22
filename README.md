@@ -1,4 +1,4 @@
-# INSERTION SORT
+# Patika.Dev_INSERTION_SORT_Project
 Patikadev Veri Yapıları ve Algoritmalar eğitiminin ilk projesidir.
 ### [22,27,16,2,18,6] -> Insertion Sort
 
